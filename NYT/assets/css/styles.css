@@ -1,0 +1,9 @@
+.jumbotron .h1, .jumbotron h1 {
+  background-color:purple;
+  width:auto;
+  text-align:center;
+  height:200px;
+  border-radius:5px;
+  padding:40px;
+}
+
