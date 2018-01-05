@@ -1,0 +1,16 @@
+#jumbo {
+	margin: 0px auto 0px auto;
+	width: 900px;
+	font-size: 60px;
+	color: white;
+  background-color: purple;
+  text-align:center;
+  height: 200px;
+  border-radius: 5px;
+  padding: 40px 20px;
+}
+
+
+#toparts {
+
+}
